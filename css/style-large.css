@@ -1,0 +1,13 @@
+
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 11pt;
+	}
+
+
+/* Footer */
+
+	#footer {
+		padding: 4em 0;
+	}
